@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-z67245.cuansalam.sbs/sitemap.xml
